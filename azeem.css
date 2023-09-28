@@ -1,0 +1,38 @@
+.mobe{
+    text-align: right;
+   
+}
+.mobileno{
+    margin: 0px;
+}
+.name{
+    text-align: center;
+    margin: 0px;
+}
+.nameb{
+    background: rgb(219, 212, 153);
+}
+.career{
+    background: rgb(166, 166, 223);
+    padding-left: 10px;
+    margin: 10px;
+}
+.data{
+    padding-left: 10px;
+    margin: 10px;
+}
+td{
+    padding-right: 20px;
+    padding: auto;
+    padding-left: 0px;
+}
+.tds{
+    padding: 0px 0px 0px 0px;
+    border: "1px solid red;"
+}
+.end{
+    text-align: center;
+}
+.endname{
+    float: right;
+}
