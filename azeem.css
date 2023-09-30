@@ -1,38 +1,49 @@
+body{
+    margin: 0rem;
+    font-size: 1rem;
+}
+
 .mobe{
     text-align: right;
    
 }
 .mobileno{
     margin: 0px;
+    padding-right: 1rem;
 }
 .name{
     text-align: center;
-    margin: 0px;
+    margin: 0rem;
+}
+div.nameb{
+    margin: 0rem 1rem 0rem 1rem;
 }
 .nameb{
     background: rgb(219, 212, 153);
-    margin: 100%;
+    margin: auto;
 }
 .career{
     background: rgb(166, 166, 223);
-    padding-left: 10px;
-    margin: 10px;
+    padding-left: 1rem;
+    margin: 1rem;
 }
 .data{
-    padding-left: 10px;
-    margin: 10px;
+    padding-left: 1rem;
+    margin: 1rem;
+    
 }
 td{
-    padding-right: 20px;
-    padding: auto;
+    padding-right: 0rem;
+    text-align: start;
     padding-left: 0px;
 }
 .tds{
-    padding: 0px 0px 0px 0px;
-    border: "1px solid red;"
+    padding: 0px 1rem 0px 0rem;
+    text-align: center;
 }
 .end{
     text-align: center;
+    margin: 1rem;
 }
 .endname{
     float: right;
